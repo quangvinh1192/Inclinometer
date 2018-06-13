@@ -1,0 +1,12 @@
+
+This program is used to create an Inclinometer using a Raspberry Pi and an IMU
+
+
+Compile with;
+
+make
+
+
+To run;
+sudo ./gyro_accelerometer_incli
+
